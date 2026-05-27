@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "opah-contacts",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "71993f8e-f5b1-4c73-8316-f8dfd7f03129",
+			"database_name": "opah-contacts"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
